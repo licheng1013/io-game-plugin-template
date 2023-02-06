@@ -1,4 +1,4 @@
-# EasyPlusTemplate
+# SpringBootPlusTemplate
 
 ## 介绍
 - 2023/1/12
